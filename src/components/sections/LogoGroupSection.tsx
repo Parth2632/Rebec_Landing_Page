@@ -10,9 +10,9 @@ function LogoGroupSection() {
   ];
 
   return (
-    <section className="py-8 bg-white">
-      <div className="w-full flex flex-col items-center mb-6">
-        <span className="block text-center text-base sm:text-xl md:text-2xl font-semibold text-black tracking-wide mb-6 px-2 sm:px-4">
+    <section className="py-4 sm:py-8 bg-white">
+      <div className="w-full flex flex-col items-center mb-3 sm:mb-6">
+        <span className="block text-center text-base sm:text-xl md:text-2xl font-semibold text-black tracking-wide mb-3 sm:mb-6 px-2 sm:px-4">
           Helping People Change The World
         </span>
       </div>
